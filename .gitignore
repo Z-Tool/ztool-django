@@ -84,6 +84,7 @@ target/
 local_settings.py
 
 .env
+.env.*
 db.sqlite3
 celerybeat-schedule
 celerybeat-schedule.db
